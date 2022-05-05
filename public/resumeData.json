@@ -1,0 +1,93 @@
+{
+  "main": {
+    "name": "Sasha Ailen Franchini",
+    "description": "I'm a Front-end developer and UX/UI Designer.",
+    "image": "profilepic.png",
+    "bio": "I'm an advanced student at the Faculty of Exact Sciences - UNICEN University. I'm a Full Stack Developer but I focus on Frontend technologies, looking for new languages and design tools to keep moving forward as a professional and always give my best.",
+    "contactmessage": "SEND ME A MESSAGE VIA",
+    "homepage": "https://{username}.github.io",
+    "email": "sashafranchini@gmail.com",
+    "address": {
+      "city": "Tandil",
+      "state": "Buenos Aires",
+      "country": "Argentina",
+      "zip": "7000"
+    },
+    "website": "http://www.timbakerdev.com",
+    "linkedin": "t.ly/bx1D",
+    "resumedownload": "public/images/CV.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sasha-ailen-franchini-053210176/",
+        "className": "fa fa-linkedin"
+      }
+    ],
+    "citizenships":[
+        {
+          "namecitizenship": "Argentinian",
+          "status": "Native"
+        },
+        {
+          "namecitizenship": "Italian",
+          "status": "By descent"
+        }
+      ]
+  },
+  "resume": {
+    "skillmessage": "There's always a chance to get better in every situation. Talking about web development technologies; I honestly believe I can improve myself even more and because of that idea, I can't ever say I know something 100%.",
+    "education": [
+      {
+        "school": "UNICEN",
+        "career": "TUDAI",
+        "degree": "Computer Software and Media Applications Major",
+        "graduated": "December 2022",
+        "description": "This career TUDAI (stands for: Tecnicatura en Desarrollo de Aplicaciones Informáticas) is a place to become a fullstack developer with a University degree. They gave us the possibility to test a lot of technologies and languages but I always focus and trained myself as a frontend developer.",
+        "url": "https://exa.unicen.edu.ar/tudai/"
+      },
+      {
+        "school": "UNICEN",
+        "career": "Gestion Tecnologica",
+        "degree": "Bachelor of Technology Management",
+        "graduated": "Present",
+        "description": "A Business Management but truly focus on technologies, which gives you a lot of room to improve yourself at this area.",
+        "url": "https://econ.unicen.edu.ar/carreras-grado/licenciatura-en-gestion-tecnologica.html"
+      }
+    ],
+    "work": [
+      {
+        "company": "Club de Chicas Programadoras",
+        "title": "Mentor",
+        "years": "January 2022 - Present",
+        "description": "Being present in the learning process, doing continuous monitoring to achieve a final project, which must be presented. Different languages tutor, class planner and Teacher's helper",
+        "url": "http://www.chicasprogramadoras.club/"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML/HTML5 - CSS/CSS3",
+        "level": "85%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Angular / Flutter",
+        "level": "50%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      },
+      {
+        "name": "UX/UI Design technologies",
+        "level": "70%"
+      }
+    ]
+  }
+}
